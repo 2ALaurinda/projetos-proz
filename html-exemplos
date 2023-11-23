@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Título da Página</title>
+</head>
+<body>
+  <img src="caminho/para/imagem.jpg" alt="Descrição da imagem">
+</body>
+</html>
+
+----------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Título da Página</title>
+</head>
+<body>
+  <figure>
+    <img src="caminho/para/imagem.jpg" alt="Descrição da imagem">
+    <figcaption>Legenda da imagem.</figcaption>
+  </figure>
+</body>
+</html>
+--------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Título da Página</title>
+</head>
+<body>
+  <form action="/submit" method="post">
+    <label for="mensagem">Mensagem:</label>
+    <textarea id="mensagem" name="mensagem" rows="4" cols="50"></textarea>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>
