@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Ponto Turístico em Ibiúna, SP</title>
+  <style>
+    /* Estilos para exemplo - poderiam ser em um arquivo CSS separado */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      width: 80%;
+      margin: 20px auto;
+    }
+    .ponto-turistico {
+      margin-bottom: 30px;
+    }
+    .ponto-turistico h2 {
+      margin-bottom: 10px;
+    }
+    .ponto-turistico img {
+      width: 100%;
+      border-radius: 5px;
+    }
+    .ponto-turistico p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Ponto Turístico em Ibiúna, SP</h1>
+  </header>
+
+  <div class="container">
+    <div class="ponto-turistico">
+      <h2>Cachoeira Vargem do Salto</h2>
+      <img src="link_para_imagem_lago.jpg" alt="Lago do Parque dos Sonhos">
+      <p>Cachoeira Vargem do Salto é uma atração natural de Ibiúna, cercado por belas paisagens e com águas relaxantes e harmoniosas.</p>
+      <p>É um local tranquilo para relaxar em contato com a natureza, ideal para passeios em família ou com amigos.</p>
+    </div>
+  </div>
+
+</body>
